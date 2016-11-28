@@ -66,6 +66,7 @@ img.avatar {
   margin-right:5px;
 }
 
+/* Make the broken images display as the default.png image */
 img.avatar:after { 
   content: " ";
   display: block;
