@@ -64,7 +64,7 @@
 
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-	var baseUrl = 'http://joebeewebchatapi.azurewebsites.net/';
+	var baseUrl = 'http://localhost:50811/';
 
 	var ChatInputForm = function ChatInputForm(_ref) {
 	    var _onSubmit = _ref.onSubmit;

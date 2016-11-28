@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import axios from "axios";
 import Pusher from "pusher-js";
 
-const baseUrl = 'http://joebeewebchatapi.azurewebsites.net/';
+const baseUrl = 'http://localhost:50811/';
 
 const ChatInputForm = ({ onSubmit }) => {
     let messageInput;
